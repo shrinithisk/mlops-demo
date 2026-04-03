@@ -1,1 +1,1 @@
-print('Merged: main + feature1')
+print('Hello MLOps')
